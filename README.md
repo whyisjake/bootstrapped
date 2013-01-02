@@ -1,4 +1,4 @@
-bootstrapped
+Bootstrapped
 ============
 
-Bootstrapped WordPress Theme
+The Bootstrapped WordPress theme is a responsive theme framework for building amazing websites.
