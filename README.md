@@ -1,0 +1,4 @@
+bootstrapped
+============
+
+Bootstrapped WordPress Theme
