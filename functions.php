@@ -31,7 +31,7 @@ add_action( 'after_setup_theme', 'bs_action_after_setup_theme' );
  */
 function bs_enqueue_scripts_styles() {
 	wp_enqueue_script( 'jquery' );
-	//wp_enqueue_script( 'bs-bootstrap', get_stylesheet_directory_uri() . '/js/bootstrap-ck.js', array( 'jquery' ) );
+	wp_enqueue_script( 'bs-bootstrap', get_stylesheet_directory_uri() . '/js/bootstrap-ck.js', array( 'jquery' ) );
 	wp_enqueue_style( 'bs-css', get_stylesheet_directory_uri() . '/css/style.css' );
 }
 
